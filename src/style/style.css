@@ -1,0 +1,29 @@
+.content-img {
+    width: 25%;
+}
+#content {
+    margin: 0 auto;
+    text-align: center;
+}
+card {
+    width: 40%;
+    display: flex;
+    margin: 10px auto;
+}
+card img {
+    width: 40%;
+    max-height: 250px;
+}
+card div {
+    margin: 10px;
+}
+.top-right {
+    position: absolute;
+    display: flex;
+    top: 15px;
+    right: 15px;
+}
+.top_right > * {
+    margin: 15px;
+    padding: 15px;
+}
