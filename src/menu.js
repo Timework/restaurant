@@ -8,11 +8,11 @@ const menu = () => {
 
     // Make image
     let imagex = document.createElement("img");
-    imagex.src = "../dist/assets/food-1.jpg";
+    imagex.src = "assets/food-1.jpg";
     let imagey = document.createElement("img");
-    imagey.src = "../dist/assets/food-2.jpg";
+    imagey.src = "assets/food-2.jpg";
     let imagez = document.createElement("img");
-    imagez.src = "../dist/assets/food-3.jpg";
+    imagez.src = "assets/food-3.jpg";
     let images = [imagex, imagey, imagez];
 
     // Append Title

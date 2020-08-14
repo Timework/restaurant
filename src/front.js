@@ -8,7 +8,7 @@ const front = () => {
 
     // Make image
     let image = document.createElement("img")
-    image.src = "../dist/assets/rest.jpg";
+    image.src = "assets/rest.jpg";
     image.classList.add("content-img")
 
     // Make headline
